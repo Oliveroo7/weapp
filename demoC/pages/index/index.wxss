@@ -1,0 +1,13 @@
+/**index.wxss**/
+.view1{
+  height: 500px;
+  background-color:greenyellow ;
+}
+.view2{
+  height:400px;
+  background-color: red
+}
+.view3{
+  height:300px;
+  background-color: yellow;
+}

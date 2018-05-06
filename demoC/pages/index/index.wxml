@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<!--事件绑定 bind /catch不冒泡  -->
+<view class="view1" bindtap="view1click" id="view1" data-title="title" data-id="100">
+  view1
+      <view class="view2" bindtap="view2click">
+        view2
+            <view class="view3" bindtap="view3click" id="view3">    view3</view>
+      </view>
+</view>

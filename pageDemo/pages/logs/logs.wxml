@@ -1,0 +1,5 @@
+<!--logs.wxml-->
+<!--文章详情  -->
+<view class="container log-list">
+  这里是文章详情。。。
+</view>

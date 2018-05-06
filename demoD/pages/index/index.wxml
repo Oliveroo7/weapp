@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+ <input placeholder='input nu' bindinput="input"></input>
+  <view wx:for="{{expressInfo}}">{{item}}</view>
+ <button type="primary" bindtap='btnClick'>search</button>
+
+ 
+</view>

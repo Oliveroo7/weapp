@@ -1,0 +1,18 @@
+<!--index.wxml-->
+<view class="container">
+    <view>
+      <text class="user-motto">文章1</text>
+    </view>
+
+    <view>
+      <text class="user-motto">文章2</text>
+    </view>
+
+    <view>
+      <text class="user-motto">文章3</text>
+    </view>
+
+    <view>
+      <text class="user-motto">文章4</text>
+    </view>
+</view>
